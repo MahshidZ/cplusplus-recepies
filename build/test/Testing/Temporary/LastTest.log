@@ -1,0 +1,33 @@
+Start testing: May 20 17:11 PDT
+----------------------------------------------------------
+1/2 Testing: selection_sort_test
+1/2 Test: selection_sort_test
+Command: "/Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/build/test/selection_sort_test" "COMMAND" "run_stest" "--report" "$<TARGET_FILE:" "selection_sort_test>"
+Directory: /Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/build/test
+"selection_sort_test" start time: May 20 17:11 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"selection_sort_test" end time: May 20 17:11 PDT
+"selection_sort_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: insertion_sort_test
+2/2 Test: insertion_sort_test
+Command: "/Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/build/test/insertion_sort_test" "COMMAND" "run_stest" "--report" "$<TARGET_FILE:" "insertion_sort_test>"
+Directory: /Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/build/test
+"insertion_sort_test" start time: May 20 17:11 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"insertion_sort_test" end time: May 20 17:11 PDT
+"insertion_sort_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 20 17:11 PDT

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/insertion_sort.cpp
+
+/Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/test/insertion_sort_test.cpp
+insertion_sort.cpp
+/Users/mahshidzeinaly/Documents/Tutorials/DataStructures/Waterloo/Github/cplusplus_recepies/test/insertion_sort.cpp
+iostream
+-
+string
+-
+
