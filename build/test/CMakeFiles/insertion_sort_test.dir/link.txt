@@ -1,1 +1,0 @@
-/usr/bin/g++   -std=c++0x  -g -ftest-coverage -fprofile-arcs -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/insertion_sort_test.dir/insertion_sort_test.cpp.o  -o insertion_sort_test  ../libCODINGRECEPIES.a 

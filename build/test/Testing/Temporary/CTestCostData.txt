@@ -1,3 +1,0 @@
-selection_sort_test 1 0.004426
-insertion_sort_test 1 0.00594997
----

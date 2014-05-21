@@ -1,3 +1,8 @@
+//============================================================================
+// Implementation of the Insertion Selection algorithm in descending order
+//============================================================================
+
+
 void Swap(int* arr, int i, int j);
 
 void SelectionSort(int* arr, int size){
