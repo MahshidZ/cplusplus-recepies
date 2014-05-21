@@ -15,6 +15,7 @@ INCLUDE_DIRECTORIES(
 # All source files (only .cxx, not .h or .txx)
 SET(CODINGRECEPIES_SRCS 
 src/selection_sort.cpp
+src/insertion_sort.cpp
 )
 
 ADD_LIBRARY(CODINGRECEPIES STATIC ${CODINGRECEPIES_SRCS})
