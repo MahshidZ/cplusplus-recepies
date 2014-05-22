@@ -21,3 +21,15 @@ COMMAND run_stest
 SET_TESTS_PROPERTIES(insertion_sort_test PROPERTIES FAIL_REGULAR_EXPRESSION
 "ERROR;WARNING" )
 
+
+ADD_EXECUTABLE(merge_sort_test merge_sort_test.cpp)
+TARGET_LINK_LIBRARIES(merge_sort_test CODINGRECEPIES)
+ADD_TEST(merge_sort_test
+  ${EXECUTABLE_OUTPUT_PATH}/merge_sort_test
+
+COMMAND run_stest
+        --report $<TARGET_FILE:  merge_sort_test>
+  )
+SET_TESTS_PROPERTIES(merge_sort_test PROPERTIES FAIL_REGULAR_EXPRESSION
+"ERROR;WARNING" )
+

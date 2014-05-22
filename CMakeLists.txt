@@ -16,6 +16,7 @@ INCLUDE_DIRECTORIES(
 SET(CODINGRECEPIES_SRCS 
 src/selection_sort.cpp
 src/insertion_sort.cpp
+src/merge_sort.cpp
 )
 
 ADD_LIBRARY(CODINGRECEPIES STATIC ${CODINGRECEPIES_SRCS})
